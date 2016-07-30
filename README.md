@@ -1,9 +1,7 @@
 # Generalized Reduce Rank Latent Factor Regression (GRRLF)
 
-
-
 #### This package includes:
-* GM-GRRLF Riemannian manifold GRRLF solver (implemented with [Manopt](http://www.manopt.org/)).
+* GM-GRRLF General manifold GRRLF solver (implemented with Riemannian manifold optimization).
 * NNR-GRRLF Nuclear norm regularization based GRRLF solver.
 * RRR-PCA-GRRLF Simplest RRR-PCA implementation.
 
