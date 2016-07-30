@@ -1,1 +1,1 @@
-# Generalized Reduced Rank Latent Factor Regression (GRRLF)
+# Generalized Reduce Rank Latent Factor Regression (GRRLF)
