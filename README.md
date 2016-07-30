@@ -7,6 +7,7 @@
 
 #### Current release: v 0.1.0
 > 2016-07-30 Moved to Github
+
 > 2016-04-15 v 0.1.0 released
 
 #### Please cite the following reference if you use GRRLF in your published research:
